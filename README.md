@@ -30,3 +30,6 @@ Addresses: Locations for orders.
 
 ######Feature Breakdown
 user management, property management, booking system
+
+#######API Security
+API security involves diverse practices and technologies for preserving confidentiality, and integrity while ensuring the availability of APIs and associated data on them. It also encompasses a shield against unauthorized access, data breaches as well as other risks that can impact functionality and reliability. These include identification, access permission encryption detection of malicious practices as well as conformity with industry norms 
