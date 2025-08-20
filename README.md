@@ -27,3 +27,6 @@ Messages: Handwritten messages for orders.
 Staff: Store employees.
 Delivery Options: Methods of delivery.
 Addresses: Locations for orders.
+
+######Feature Breakdown
+user management, property management, booking system
