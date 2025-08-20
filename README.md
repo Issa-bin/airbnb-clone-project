@@ -1,0 +1,1 @@
+we will be creating a airBnB website where clients can just login book pay check out using system with no human intervention. we will be using python, java script, css5, html 
